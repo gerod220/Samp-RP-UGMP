@@ -1,0 +1,116 @@
+[14:50:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:46] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:50:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:47] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:50:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:47] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:50:48] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:50:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:54:38] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'Name' in 'where clause'
+[14:54:38] [ERROR] cache_get_field_content_int - invalid datatype
+[15:00:43] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'Name' in 'where clause'
+[15:00:43] [ERROR] cache_get_field_content_int - invalid datatype
+[15:07:05] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'Name' in 'where clause'
+[15:07:05] [ERROR] cache_get_field_content_int - invalid datatype
+[19:00:53] [ERROR] cache_get_field_content_int - invalid datatype
+olumn 'Name' in 'where clause'
+[19:02:23] [ERROR] cache_get_field_content_int - invalid datatype
+[10:38:58] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:38:58] [WARNING] CMySQLConnection::Disconnect - no connection available
+[10:38:59] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:38:59] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:39:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:39:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:39:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:52:22] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'pArmour' in 'field list'
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:39:36] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:39:36] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:39:36] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:41:04] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[19:41:04] [WARNING] cache_get_row_count - no active cache
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:42:57] [WARNING] CMySQLConnection::Disconnect - no connection available
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:42:57] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[19:43:25] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[19:43:25] [WARNING] cache_get_row_count - no active cache
+[19:46:51] [ERROR] cache_get_field_content_int - invalid datatype
+[19:46:51] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'Name' in 'where clause'
+[20:41:26] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0')
+[20:41:26] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0')
+[20:41:26] [ERROR] cache_get_field_content_int - invalid datatype
+[20:41:33] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0')
+[20:41:33] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0')
+[20:41:33] [ERROR] cache_get_field_content_int - invalid datatype
+[14:34:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:34:04] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:34:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:34:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:34:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:34:33] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:34:33] [WARNING] cache_get_row_count - no active cache
+[14:42:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:16] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:42:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:17] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:42:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:17] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:42:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:42:42] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:42:42] [WARNING] cache_get_row_count - no active cache
+[14:43:38] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:43:38] [WARNING] cache_get_row_count - no active cache
+[14:45:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:00] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:45:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:01] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:45:01] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:45:02] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:24] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:45:24] [WARNING] cache_get_row_count - no active cache
+[14:46:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:49] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:46:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:50] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:46:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:50] [WARNING] CMySQLConnection::Disconnect - no connection available
+[14:46:51] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:52] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:52] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:52] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:47:12] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:47:12] [WARNING] cache_get_row_count - no active cache
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [WARNING] CMySQLConnection::Disconnect - no connection available
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [WARNING] CMySQLConnection::Disconnect - no connection available
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [WARNING] CMySQLConnection::Disconnect - no connection available
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:04:34] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[15:08:27] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'Name' in 'where clause'
+[15:08:27] [ERROR] cache_get_field_content_int - invalid datatype
